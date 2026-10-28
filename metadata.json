@@ -1,0 +1,6 @@
+{
+  "name": "Sangu",
+  "description": "Aplikasi pencatatan keuangan pribadi serba mudah, multi-akun dompet dan rekening, pos tabungan (celengan), utang piutang, dan analisis pengeluaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
